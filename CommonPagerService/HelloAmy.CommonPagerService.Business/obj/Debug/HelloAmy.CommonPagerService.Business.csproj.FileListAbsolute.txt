@@ -1,0 +1,16 @@
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\obj\Debug\HelloAmy.CommonPagerService.Business.csprojResolveAssemblyReference.cache
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.Business.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.Business.pdb
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.DAL.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.Factory.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.IDAL.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.Model.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\MySql.Data.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\Dos.ORM.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.DAL.pdb
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.Factory.pdb
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.IDAL.pdb
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\HelloAmy.CommonPagerService.Model.pdb
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\bin\Debug\Dos.ORM.xml
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\obj\Debug\HelloAmy.CommonPagerService.Business.dll
+C:\code\05CommonPagerService\CommonPagerService\HelloAmy.CommonPagerService.Business\obj\Debug\HelloAmy.CommonPagerService.Business.pdb
